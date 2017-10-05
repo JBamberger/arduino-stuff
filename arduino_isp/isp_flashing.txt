@@ -1,0 +1,11 @@
+open ./arduino_isp/arduino_isp.ino
+flash to arduino mega 2560
+connect atmega328(p) according to schematic
+select Atmega328 8mhz breadboard
+select "burn bootloader"
+
+finished
+
+
+to program:
+connect and select upload with programmer.

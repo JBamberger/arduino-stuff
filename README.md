@@ -1,3 +1,3 @@
 # arduino-stuff
 
-Collection of small arduino code snippets. Everything is unfinished and undocumented.
+Collection of small arduino code snippets, samples, libraries and tools. Everything is unfinished and undocumented.
